@@ -30,7 +30,7 @@
 `Android Studio` `Android Basics`
 
 ###  Tools & Workflow
-`Git` `IntelliJ IDEA` `Scrum` `Agile Methodologies`
+`Git` `IntelliJ IDEA` `Scrum` `Agile` `Jira`
 
 <!--
 **StanMatt/StanMatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
