@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Mateusz
 
  Passionate about software development and testing.  
  Focused on building solid backend applications and improving code quality.  
